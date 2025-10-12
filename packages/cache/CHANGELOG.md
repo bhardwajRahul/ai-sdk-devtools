@@ -1,5 +1,11 @@
 # @ai-sdk-tools/cache
 
+## 0.7.2
+
+### Patch Changes
+
+- 61efe54: Initial release of unified ai-sdk-tools package. Fixed use client directive handling in artifacts. Added artifacts devDependency to cache package.
+
 ## 0.7.1
 
 ### Patch Changes
